@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/-GitHub?style=flat-square&logo=github"/>
 </p>
 
+[![Adrian-TJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-TJ)](https://github.com/Adrian-TJ/github-readme-stats)
+
 <h2 align="center">Contact me through</h2>
 
 <p align="center">
