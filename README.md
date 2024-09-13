@@ -1,4 +1,4 @@
-<h2 align="center">Technology Stack></h2>
+<h2 align="center">Technology Stack</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
