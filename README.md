@@ -13,7 +13,10 @@
 </p>
 
 <h2 align="center">Stats</h2>
-![Adrian-TJ GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-TJ&show_icons=true&theme=radical)
+<div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adrian-TJ&theme=radical&border_radius=10&card_width=600&card_height=200)](https://git.io/streak-stats) 
+[![Adrian-TJ GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-TJ&show_icons=true&theme=radical)]
+</div>
 
 <h2 align="center">Contact me through</h2>
 
