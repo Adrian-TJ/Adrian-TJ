@@ -13,7 +13,7 @@
 </p>
 
 <h2 align="center">Stats</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Adrian-TJ GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-TJ&show_icons=true&theme=radical)
 
 <h2 align="center">Contact me through</h2>
 
