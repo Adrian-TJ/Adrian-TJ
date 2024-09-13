@@ -15,7 +15,7 @@
 <h2 align="center">Stats</h2>
 <div>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Adrian-TJ&theme=radical&border_radius=10&card_width=600&card_height=200" alt="GitHub Streak" /></a>
- [![Adrian-TJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-TJ&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Adrian-TJ&show_icons=true&theme=radical" alt="GitHub Stats" /></a>
 </div>
 
 <h2 align="center">Contact me through</h2>
