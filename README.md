@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/-GitHub?style=flat-square&logo=github"/>
 </p>
 
-![Adrian-TJ GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-TJ&show_icons=true&theme=radical)
-[![Adrian-TJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-TJ)](https://github.com/Adrian-TJ)
+<h2 align="center">Stats</h2>
+![Adrian-TJ GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-TJ&show_icons=true&theme=radical)(https://github.com/Adrian-TJ)
 
 <h2 align="center">Contact me through</h2>
 
