@@ -13,9 +13,15 @@
 </p>
 
 <h2 align="center">Stats</h2>
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-TJ&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)-->
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Adrian-TJ&theme=radical&border_radius=10&card_width=600&card_height=200" alt="GitHub Streak" /></a>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Adrian-TJ&show_icons=true&theme=radical&border_radius=10&card_width=600&card_height=200" alt="GitHub Stats" /></a>
+ <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Adrian-TJ&theme=radical&border_radius=10&card_width=600&card_height=200" alt="GitHub Streak" />
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrian-TJ&show_icons=true&theme=radical&border_radius=10&card_width=600&card_height=200" alt="GitHub Stats" />
+ </a>
 </div>
 
 <h2 align="center">Contact me through</h2>
