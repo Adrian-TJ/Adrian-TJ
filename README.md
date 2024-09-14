@@ -1,3 +1,13 @@
+<h1>Hi there, I'm Adrian :wave:</h1>
+<p>I am currently in my 5th semester pursuing a Bachelor's degree in Computer Science and Technology at Tec de Monterrey. I love challenges and to put myself to the test I started working on a CRM platform as a service to launch and sell. This project is built using AWS services, React, TypeScript and NextJS, and it's developing my adaptability and problem solving skills.</p>
+
+<h4>Others...</h4>
+<p>:trophy: I'm interested in competitive programming</p>
+<p>:muscle: I like Crossfit training and exercising</p>
+<p>:art: I'd love learning to design good looking applications... Currently working on it :wink:</p>
+<p>:open_book: I'm currently developing myself physically thorugh excercise and mentally through learning</p>
+<p>:envelope: Contact me through <a href="mailto: atrevino136@gmail.com">atrevino136@gmail.com</a></p>
+
 <h2 align="center">Technology Stack</h2>
 
 <h3 align="center">Comfortable</h3>
@@ -38,7 +48,7 @@
  </a>
 </div>
 
-<h2 align="center">Contact me through</h2>
+<h2 align="center">Contact</h2>
 
 <div align="center">
 <a href="mailto: atrevino136@gmail.com">
