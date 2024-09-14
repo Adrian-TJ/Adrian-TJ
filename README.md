@@ -5,7 +5,7 @@
 <p>:trophy: I'm interested in competitive programming</p>
 <p>:muscle: I like Crossfit training and exercising</p>
 <p>:art: I'd love learning to design good looking applications... Currently working on it :wink:</p>
-<p>:open_book: I'm currently developing myself physically thorugh excercise and mentally through learning</p>
+<p>:open_book: I'm currently developing myself physically thorugh exercise and mentally through learning</p>
 <p>:envelope: Contact me through <a href="mailto: atrevino136@gmail.com">atrevino136@gmail.com</a></p>
 
 <h2 align="center">Technology Stack</h2>
