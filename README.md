@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Adrian :wave:</h1>
-<p>I am currently in my 5th semester pursuing a Bachelor's degree in Computer Science and Technology at Tec de Monterrey. I love challenges and to put myself to the test I started working on a CRM platform as a service to launch and sell. This project is built using AWS services, React, TypeScript and NextJS, and it's developing my adaptability and problem solving skills.</p>
+<p>I am currently in my 7th semester pursuing a Bachelor's degree in Computer Science and Technology at Tec de Monterrey. I love challenges and to put myself to the test I an currently working at Talentapy a talent development startup. This project is built using AWS services, React, TypeScript and NextJS, and it's developing my adaptability and problem solving skills.</p>
 
 <h4>Others...</h4>
 <p>:trophy: I'm interested in competitive programming</p>
@@ -20,13 +20,13 @@
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+ <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
 <h3 align="center">In progress...</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
- <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
